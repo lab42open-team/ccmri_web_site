@@ -1,0 +1,44 @@
+include: ["_pages"]
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+title: "<img alt='PREGO' src='https://evangelospafilis.github.io/prego_web_site/images/prego_think_modular.png' style='border: 0; height:4em; padding-left:1em;'/>"
+name: "Prego project : Process Environment Organism"
+description: "PREGO, text mining and data integration to elucidate ecosystem functioning: associating organisms and environments with biogeochemical and anthropogenic impact processes. Mining public knowledge to open novel doors in molecular ecology, microbiology and biodiversity.text mining, named entity recognition, environment ontology, environmental processes, microorganisms, microbial sequences, association extraction, confidence score, interactive network visualization, environmental microbiology, molecular ecology, biodiversity. IMBBC, HCMR, GSRT, HFRI."
+defaults:
+# _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+
+twitter:
+  username: &twitter "prego_project"
+  
+social:
+  type: Organization
+  name: # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://twitter.com/prego_project"
+ 
+ # Site Footer
+footer:
+#  links:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/prego_project"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/evangelospafilis/"
+      
+# Google Analytics Tracker added, according to instruction in https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-201046659-1"
+    anonymize_ip: false # default
