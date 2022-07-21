@@ -12,11 +12,11 @@ main:
 #  - title: "News"
 #    url: /year-archive/
 #    
-#info:
-#  - title: "Aim"
-#    url: /#aim
-#  - title: "Contact"
-#    url: /#contact
+info:
+  - title: "Aim"
+    url: /#aim
+  - title: "Contact"
+    url: /#contact
 #  - title: "How to cite"
 #    url: /#how-to-cite
 #  - title: "How to contribute"
@@ -25,8 +25,8 @@ main:
 #    url: /#privacy-policy
 #  - title: "Terms of Use"
 #    url: /#terms-of-use
-#  - title: "Funding"
-#    url: /#funding
+  - title: "Funding"
+    url: /#funding
 #
 #publications:
 #  - title: "Preprints"
