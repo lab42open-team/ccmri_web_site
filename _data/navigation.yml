@@ -1,67 +1,67 @@
 main:
   - title: "Info"
     url: /
-  - title: "Content"
-    url: /content/
-  - title: "Access"
-    url: /access/
-  - title: "People"
-    url: /people/
-  - title: "Publications"
-    url: /publications/
-  - title: "News"
-    url: /year-archive/
-    
-info:
-  - title: "Aim"
-    url: /#aim
-  - title: "Contact"
-    url: /#contact
-  - title: "How to cite"
-    url: /#how-to-cite
-  - title: "How to contribute"
-    url: /#how-to-contribute
-  - title: "Privacy Policy"
-    url: /#privacy-policy
-  - title: "Terms of Use"
-    url: /#terms-of-use
-  - title: "Funding"
-    url: /#funding
-
-publications:
-  - title: "Preprints"
-    url: /publications/#preprints
-  - title: "Research articles"
-    url: /publications/#research-articles
-  - title: "Conference proceedings"
-    url: /publications/#conference-proceedings
-#  - title: "Reviews"
-#    url: /publications/#reviews
-#  - title: "Editorials"
-#    url: /publications/#editorials
-  - title: "Book chapters"
-    url: /publications/#book-chapters
-
-access:
-  - title: "Bulk download"
-    url: /access/#bulk-download
-  - title: "API"
-    url: /access/#api
-#  - title: "Project management"
-#    url: /tasks/#project-management-wp6
-#  - title: "Dissemination, publication, training and outreach"
-#    url: /tasks/#dissemination-publication-training-and-outreach-wp7
-#  - title: "Deliverables - Overview"
-#    url: /tasks/#deliverables---overview
-    
-    
-content:
-  - title: "Resources"
-    url: /content/#resources
-  - title: "Channels"
-    url: /content/#channels
-  - title: "Statistics"
-    url: /content/#statistics
-  - title: "Methodology"
-    url: /content/#methodology
+#  - title: "Content"
+#    url: /content/
+#  - title: "Access"
+#    url: /access/
+#  - title: "People"
+#    url: /people/
+#  - title: "Publications"
+#    url: /publications/
+#  - title: "News"
+#    url: /year-archive/
+#    
+#info:
+#  - title: "Aim"
+#    url: /#aim
+#  - title: "Contact"
+#    url: /#contact
+#  - title: "How to cite"
+#    url: /#how-to-cite
+#  - title: "How to contribute"
+#    url: /#how-to-contribute
+#  - title: "Privacy Policy"
+#    url: /#privacy-policy
+#  - title: "Terms of Use"
+#    url: /#terms-of-use
+#  - title: "Funding"
+#    url: /#funding
+#
+#publications:
+#  - title: "Preprints"
+#    url: /publications/#preprints
+#  - title: "Research articles"
+#    url: /publications/#research-articles
+#  - title: "Conference proceedings"
+#    url: /publications/#conference-proceedings
+##  - title: "Reviews"
+##    url: /publications/#reviews
+##  - title: "Editorials"
+##    url: /publications/#editorials
+#  - title: "Book chapters"
+#    url: /publications/#book-chapters
+#
+#access:
+#  - title: "Bulk download"
+#    url: /access/#bulk-download
+#  - title: "API"
+#    url: /access/#api
+##  - title: "Project management"
+##    url: /tasks/#project-management-wp6
+##  - title: "Dissemination, publication, training and outreach"
+##    url: /tasks/#dissemination-publication-training-and-outreach-wp7
+##  - title: "Deliverables - Overview"
+##    url: /tasks/#deliverables---overview
+#    
+#    
+#content:
+#  - title: "Resources"
+#    url: /content/#resources
+#  - title: "Channels"
+#    url: /content/#channels
+#  - title: "Statistics"
+#    url: /content/#statistics
+#  - title: "Methodology"
+#    url: /content/#methodology
 
