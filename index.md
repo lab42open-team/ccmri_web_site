@@ -1,10 +1,13 @@
 ---
-title: CCMRI Project Description
+title: Project Description
 layout: single
 permalink: /
 sidebar:
   nav: "about"
 ---
+
+<title>CCMRI - Climate Change Metagenomic Record Index</title>
+
 ## Aim
 
 *Climate Change Metagenomic Record Index (CCMRI): a dynamic researcher-notification and sample classification system*
