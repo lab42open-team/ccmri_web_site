@@ -6,9 +6,9 @@ plugins:
 
 remote_theme: "mmistakes/minimal-mistakes"
 
-#title: "<img alt='PREGO' src='https://evangelospafilis.github.io/prego_web_site/images/prego_think_modular.png' style='border: 0; height:4em; padding-left:1em;'/>"
-#name: "Prego project : Process Environment Organism"
-#description: "PREGO, text mining and data integration to elucidate ecosystem functioning: associating organisms and environments with biogeochemical and anthropogenic impact processes. Mining public knowledge to open novel doors in molecular ecology, microbiology and biodiversity.text mining, named entity recognition, environment ontology, environmental processes, microorganisms, microbial sequences, association extraction, confidence score, interactive network visualization, environmental microbiology, molecular ecology, biodiversity. IMBBC, HCMR, GSRT, HFRI."
+title: "<img alt='CCMRI' src='http://ccmri.hcmr.gr/images/prego_think_modular.png' style='border: 0; height:4em; padding-left:1em;'/>"
+name: "CCMRI project : Climate Change Metagenomic Record Index"
+description: "Climate Change Metagenomic Record Index (CCMRI): a dynamic researcher-notification and sample classification system, IMBBC, HCMR, HFRI."
 #defaults:
 ## _posts
 #  - scope:
