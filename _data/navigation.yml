@@ -1,5 +1,5 @@
 main:
-  - title: "Info"
+  - title: "CCMRI"
     url: /
 #  - title: "Content"
 #    url: /content/
@@ -12,7 +12,7 @@ main:
 #  - title: "News"
 #    url: /year-archive/
 #    
-info:
+ccmri:
   - title: "Aim"
     url: /#aim
   - title: "Contact"
