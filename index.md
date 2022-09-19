@@ -38,9 +38,9 @@ P.O.Box 2214, 71003 Heraklion, Crete, Greece
 Funded from the Hellenic Foundation for Research and Innovation (HFRI) (grant No 2772).
 
 
-<div style="    margin-left: auto;     margin-right: auto;     display: block;     width: 50%;
-                margin-top: 20%;       font-size: smaller;     font-style: italic;">
-    <br>
+<!-- <div style="     margin-left: auto;     margin-right: auto;     display: block;     width: 50%;
+                      margin-top: 20%;       font-size: smaller;     font-style: italic;">-->
+<div style="          margin-top: 20%;       font-size: smaller;     font-style: italic;">              
     Note: By the means of academic reporting, Google Analytics cookies are in use to collect web site traffic statistics.
     By using this site, you agree to its use of cookies.
 </div>
