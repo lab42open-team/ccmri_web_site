@@ -1,9 +1,9 @@
 ---
-title: About
+title: About2
 layout: single
 permalink: /
 sidebar:
-  nav: "ccmri"
+  nav: "about"
 ---
 ## Aim
 
