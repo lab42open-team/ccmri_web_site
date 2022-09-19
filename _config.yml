@@ -6,7 +6,7 @@ plugins:
 
 remote_theme: "mmistakes/minimal-mistakes"
 
-title: "<img alt='CCMRI' src='http://ccmri.hcmr.gr/images/prego_think_modular.png' style='border: 0; height:4em; padding-left:1em;'/>"
+title: "<img alt='CCMRI' src='http://ccmri.hcmr.gr/images/ccmri_logo.png' style='border: 0; height:4em; padding-left:1em;'/>"
 name: "CCMRI project : Climate Change Metagenomic Record Index"
 description: "Climate Change Metagenomic Record Index (CCMRI): a dynamic researcher-notification and sample classification system, IMBBC, HCMR, HFRI."
 #defaults:
