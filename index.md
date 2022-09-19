@@ -1,9 +1,9 @@
 ---
-title: Info
+title: CCMRI
 layout: single
 permalink: /
 sidebar:
-  nav: "info"
+  nav: "Project Description"
 ---
 ## Aim
 
