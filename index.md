@@ -6,8 +6,6 @@ sidebar:
   nav: "about"
 ---
 
-<head><title>CCMRI - Climate Change Metagenomic Record Index</title></head>
-
 ## Aim
 
 *Climate Change Metagenomic Record Index (CCMRI): a dynamic researcher-notification and sample classification system*
