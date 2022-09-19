@@ -12,7 +12,7 @@ main:
 #  - title: "News"
 #    url: /year-archive/
 #    
-ccmri:
+about:
   - title: "Aim"
     url: /#aim
   - title: "Contact"
