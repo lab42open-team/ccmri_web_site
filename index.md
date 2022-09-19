@@ -1,5 +1,5 @@
 ---
-title: About2
+title: CCMRI Project Description
 layout: single
 permalink: /
 sidebar:
