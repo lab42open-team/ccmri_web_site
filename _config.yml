@@ -36,9 +36,9 @@ description: "Climate Change Metagenomic Record Index (CCMRI): a dynamic researc
 ##      icon: "fab fa-fw fa-github"
 ##      url: "https://github.com/evangelospafilis/"
 #      
-## Google Analytics Tracker added, according to instruction in https://mmistakes.github.io/minimal-mistakes/docs/configuration/
-#analytics:
-#  provider: "google-gtag"
-#  google:
-#    tracking_id: "UA-201046659-1"
-#    anonymize_ip: false # default
+# Google Analytics Tracker added, according to instruction in https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-241714602-1"
+    anonymize_ip: false # default
