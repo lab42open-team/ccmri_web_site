@@ -6,7 +6,7 @@ sidebar:
   nav: "about"
 ---
 
-<title>CCMRI - Climate Change Metagenomic Record Index</title>
+<head><title>CCMRI - Climate Change Metagenomic Record Index</title></head>
 
 ## Aim
 
