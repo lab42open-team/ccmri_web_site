@@ -1,5 +1,5 @@
 ---
-title: ccmri
+title: About
 layout: single
 permalink: /
 sidebar:
