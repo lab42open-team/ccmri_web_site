@@ -37,10 +37,23 @@ P.O.Box 2214, 71003 Heraklion, Crete, Greece
 
 Funded from the Hellenic Foundation for Research and Innovation (HFRI) (grant No 2772).
 
-
+<!-- Google Analytics in use message -->
 <!-- <div style="     margin-left: auto;     margin-right: auto;     display: block;     width: 50%;
                       margin-top: 20%;       font-size: smaller;     font-style: italic;">-->
 <div style="          margin-top: 20%;       font-size: smaller;     font-style: italic;">              
     Note: By the means of academic reporting, Google Analytics cookies are in use to collect web site traffic statistics.
     By using this site, you agree to its use of cookies.
 </div>
+
+
+<!-- Host insitution and funding logos -->
+<div style="          margin-top: 20%;">              
+  <div style="float: left;"><a href="http://www.hcmr.gr"><img alt="HCMR logo" src="{{ site.baseurl }}/images/hcmr.png"            style="border: 0; height:2em;" /></a></div>
+  <div style="float: left;"><a href="http://www.imbbc.hcmr.gr"><img alt="IMBBC logo" src="{{ site.baseurl }}/images/logo-imbbc.png"    style="border: 0; height:2em;" /></a></div>
+  <div style="float: left;"><a href="http://lab42open.hcmr.gr"><img alt="lab42open logo" src="{{ site.baseurl }}/images/lab42open.png" style="border: 0; height: 1.4em; margin-top: 0.4em"/></a></div>
+  
+  <div style="float: right;"><a href="http://www.gsrt.gr"><img alt="GSRT logo" src="{{ site.baseurl }}/images/gsri.png"           style="border: 0; height:2em;"/></a></div>
+  <div style="float: right;"><a href="http://www.elidek.gr"><img alt="HFRI logo" src="{{ site.baseurl }}/images/hfri.png"           style="border: 0; height:2em;"/></a></div>
+</div>
+
+
