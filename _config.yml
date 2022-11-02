@@ -9,33 +9,33 @@ remote_theme: "mmistakes/minimal-mistakes"
 title: "<img alt='CCMRI' src='http://ccmri.hcmr.gr/images/ccmri_logo.png' style='border: 0; height:4em; padding-left:1em;'/>"
 name: "CCMRI project : Climate Change Metagenomic Record Index"
 description: "Climate Change Metagenomic Record Index (CCMRI): a dynamic researcher-notification and sample classification system, IMBBC, HCMR, HFRI."
-#defaults:
-## _posts
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: single
-#
-#twitter:
-#  username: &twitter "prego_project"
-#  
-#social:
-#  type: Organization
-#  name: # If the user or organization name differs from the site's name
-#  links: # An array of links to social media profiles
-#    - "https://twitter.com/prego_project"
-# 
-# # Site Footer
-#footer:
-##  links:
-##    - label: "Twitter"
-##      icon: "fab fa-fw fa-twitter-square"
-##      url: "https://twitter.com/prego_project"
-##    - label: "GitHub"
-##      icon: "fab fa-fw fa-github"
-##      url: "https://github.com/evangelospafilis/"
-#      
+defaults:
+# _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+
+twitter:
+  username: &twitter "CcmriP"
+  
+social:
+  type: Organization
+  name: # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+    - "https://twitter.com/CcmriP"
+ 
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/CcmriP"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lab42open-team/"
+      
 # Google Analytics Tracker added, according to instruction in https://mmistakes.github.io/minimal-mistakes/docs/configuration/
 analytics:
   provider: "google-gtag"
