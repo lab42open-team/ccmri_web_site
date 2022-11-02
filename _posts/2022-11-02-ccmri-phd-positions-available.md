@@ -8,7 +8,7 @@ Are you interested in a PhD in Text Mining, Machine Learning, Microbiome (meta)d
 
 Two PhD positions are available at the [Hellenic Centre for Marine Research](http://www.hcmr.gr/), [Institute of Marine Biology Biotechnology and Aquaculture](https://imbbc.hcmr.gr/) [CCMRI](http://ccmri.hcmr.gr) project. 
 
-Find out more at: https://tinyurl.com/ccmriphd2 
+Find out more at: [https://tinyurl.com/ccmriphd2](https://tinyurl.com/ccmriphd2) 
 
 (Job post in Greek, 2+ years each, [Hellenic Foundation for Research and Innovation](https://www.elidek.gr/) funded. 
 
