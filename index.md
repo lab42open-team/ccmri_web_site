@@ -7,8 +7,8 @@ sidebar:
 ---
 
 
-> <b>Position Available</b>
-> Are you an <b>MSc</b> holder in <b>Bioinformatics</b> interested to learn more on similarity metrics, microbiome (meta)data, climate change, and/or text mining? A position is now available in CCMRI!
+> <b>Position Available</b><br />
+> Are you an <b>MSc</b> holder in <b>Bioinformatics</b> interested to learn more on similarity metrics, microbiome (meta)data, climate change, and/or text mining? A position is now available in CCMRI!<br />
 > Find out more <a href="https://tinyurl.com/ccmri-bionfo-msc" target="blank">here</a> (job post in Greek, DOATAP requirement applies)
 
 ## Aim
