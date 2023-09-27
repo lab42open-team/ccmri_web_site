@@ -6,6 +6,9 @@ sidebar:
   nav: "about"
 ---
 
+>
+>  Position Avalaible for an MSc holder in Bioinformatics. Find out more [here](https://tinyurl.com/ccmri-bionfo-msc) (job post in Greek, DOATAP requirement applies)
+>
 ## Aim
 
 *Climate Change Metagenomic Record Index (CCMRI): a dynamic researcher-notification and sample classification system*
