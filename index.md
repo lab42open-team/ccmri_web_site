@@ -8,7 +8,7 @@ sidebar:
 
 > <b>Position Available!</b><br />
 > Are you an <b>MSc</b> holder in <b>Biology</b>, <b>Ecoology</b>, <b>Microbiology</b>, or <b>Environmental Sciences</b> interested to learn more on microbiome (meta)data, climate change, and/or AI? A position is now available in CCMRI!<br />
-> Find out more <a href="https://tinyurl.com/ccmri-bio-eco-msc" target="blank">here</a> (job post in Greek, DOATAP requirement applies)
+> Find out more <a href="https://tinyurl.com/ccmri-bio-eco-msc" target="blank">here</a> (job post in Greek, DOATAP requirement applies, applications accepted until the 3rd of March, 2024)
 
 ## Aim
 
